@@ -1,0 +1,141 @@
+*{
+margin: 0;
+padding: 0;
+
+}
+.container{
+
+	width: 1140px;
+	margin: auto;
+}
+a{
+	text-decoration: none;
+}
+/**********************
+header part css here
+
+*********************/
+header{
+
+	width: 100%;
+	padding: 50px 0px;
+}
+.nev-ber{
+
+width: 100%;
+float: left;
+
+}
+.logo{
+	width: 25%;
+	float: left;
+}
+.menu{
+	width: 75%;
+	float: right;
+	text-align: right;
+
+}
+.menu ul li a{
+
+	font-family: 'Playfair Display',serif;
+	color: #c0c0c0;
+	text-transform: uppercase;
+	list-style: none;
+	font-weight: 400;
+}
+.menu ul li a:hover{
+
+	color: black;
+}
+/***********************
+.main-post part css here
+
+
+*************************/
+.main-post{
+
+	width: 100%;
+}
+.details{
+
+	padding: 70px;
+}
+.details h4{
+	font-family: 'ubuntu', sans-serif;
+	text-transform: uppercase;
+	color: #c0c0c0;
+}
+.details h1{
+
+	font-family: 'Playfair Display',serif;
+	color: #c0c0c0;
+}
+.details p{
+	font-family: 'Playfair Display', serif;
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+.details span{
+	font-family:'Playfair Display',serif;
+	font-weight: 400;
+	color: #c0c0c0;
+
+}
+.posts{
+
+	width: 100%;
+
+}
+.gallary{
+
+	width: 100%;
+	float: left;
+	padding: 70%
+}
+.left{
+	width: 46%;
+	float: left;
+}
+.right{
+
+	width: 46%;
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
